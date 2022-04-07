@@ -1,16 +1,16 @@
 ﻿[PARAMS]
 pnum=1
-GUID={F6574B06-E632-4D5F-BC75-C8FA658B57E2}
-name_ru=1754-ПГМ-Курская-Хотмыжский
-name_uk=1754-ПГМ-Курская-Хотмыжский1
-name=1754-PGM-Kurskaja-Hotmijskij
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B57EB}
+name_ru=1754-ПГМ-Псковская-Псковский
+name_uk=1754-ПГМ-Псковская-Псковский1
+name=1754-PGM-Pskovskaya-Pskovskiy
 ParentSubMenu_ru=!Старинные карты
 ParentSubMenu_uk=!Старинные карты1
 ParentSubMenu=!OLD maps
 projection=1
 sradiusa=6378137
 sradiusb=6378137
-NameInCache=1754-PGM-Kurskaja-Hotmijskij
+NameInCache=1754-PGM-Pskovskaya-Pskovskiy
 Ext=.jpg
 ContentType=image/jpeg
 IsUseDownloaderInScript=1
