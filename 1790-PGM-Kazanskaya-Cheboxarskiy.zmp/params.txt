@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B57F1}
+name_ru=1754-ПГМ-Казанская-Чебоксарский
+name_uk=1754-ПГМ-Казанская-Чебоксарский1
+name=1790-PGM-Kazanskaya-Cheboxarskiy
+ParentSubMenu_ru=!Старинные карты
+ParentSubMenu_uk=!Старинные карты1
+ParentSubMenu=!OLD maps
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1790-PGM-Kazanskaya-Cheboxarskiy
+Ext=.jpg
+ContentType=image/jpeg
+IsUseDownloaderInScript=1
+CacheType=4

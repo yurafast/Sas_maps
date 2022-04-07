@@ -1,8 +1,8 @@
 ﻿[PARAMS]
 pnum=1
 GUID={F6574B06-E632-4D5F-BC75-C8FA658B57F0}
-name_ru=1754-ПГМ-Псковская-Малоярославецкий
-name_uk=1754-ПГМ-Псковская-Малоярославецкий1
+name_ru=1754-ПГМ-Калужская-Малоярославецкий
+name_uk=1754-ПГМ-Калужская-Малоярославецкий1
 name=1790-PGM-Kalujskaja-Molojaroslaveckiy
 ParentSubMenu_ru=!Старинные карты
 ParentSubMenu_uk=!Старинные карты1
