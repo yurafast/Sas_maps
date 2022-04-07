@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B57EF}
+name_ru=1754-ПГМ-Псковская-Островский
+name_uk=1754-ПГМ-Псковская-Островский1
+name=1754-PGM-Pskovskaya-Ostrovskiy-2V
+ParentSubMenu_ru=!Старинные карты
+ParentSubMenu_uk=!Старинные карты1
+ParentSubMenu=!OLD maps
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1754-PGM-Pskovskaya-Ostrovskiy-2V
+Ext=.jpg
+ContentType=image/jpeg
+IsUseDownloaderInScript=1
+CacheType=4
