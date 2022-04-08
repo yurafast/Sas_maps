@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B5800}
+name_ru=1838-МЕНДЕ-Московская
+name_uk=1838-МЕНДЕ-Московская1
+name=1838-MENDE-Moscowskaya
+ParentSubMenu_ru=!Старинные карты
+ParentSubMenu_uk=!Старинные карты1
+ParentSubMenu=!OLD maps
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1838-MENDE-Moscowskaya
+Ext=.jpg
+ContentType=image/jpeg
+IsUseDownloaderInScript=1
+CacheType=4
