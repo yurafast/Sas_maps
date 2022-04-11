@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B5810}
+name_ru=1870-ШУБЕРТ-Псков-3В
+name_uk=1870-ШУБЕРТ-Псков-3В1
+name=1870-SHUBERT-Pskov-3V
+ParentSubMenu_ru=!Старинные карты\ШУБЕРТ
+ParentSubMenu_uk=!Старинные карты\ШУБЕРТ
+ParentSubMenu=!OLD maps\SHUBERT
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1870-SHUBERT-Pskov-3V
+Ext=.jpg
+ContentType=image/jpeg
+IsUseDownloaderInScript=1
+CacheType=4
