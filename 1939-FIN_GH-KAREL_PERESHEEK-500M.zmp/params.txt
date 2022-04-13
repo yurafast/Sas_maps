@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B5818}
+name_ru=1939-ФИН_ГШ-Карельский_перешеек-500M
+name_uk=1939-ФИН_ГШ-Карельский_перешеек-500M1
+name=1939-FIN_GH-KAREL_PERESHEEK-500M
+ParentSubMenu_ru=!Старинные карты\ФИН_ГШ
+ParentSubMenu_uk=!Старинные карты\ФИН_ГШ
+ParentSubMenu=!OLD maps\FIN_GH
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1939-FIN_GH-KAREL_PERESHEEK-500M
+Ext=.jpg
+ContentType=image/jpeg
+IsUseDownloaderInScript=1
+CacheType=4

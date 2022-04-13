@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B5821}
+name_ru=1940-РККА-ЛО_ПСК_Обл_Нов_обл-1КМ
+name_uk=1940-РККА-ЛО_ПСК_Обл_Нов_обл-1КМ1
+name=1940-RKKA-LEN_OBL-PSK_OBL-NOV_OBL-1KM
+ParentSubMenu_ru=!Старинные карты\РККА
+ParentSubMenu_uk=!Старинные карты\РККА
+ParentSubMenu=!OLD maps\RKKA
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1940-RKKA-LEN_OBL-PSK_OBL-NOV_OBL-1KM
+Ext=.jpg
+ContentType=image/jpeg
+IsUseDownloaderInScript=1
+CacheType=4

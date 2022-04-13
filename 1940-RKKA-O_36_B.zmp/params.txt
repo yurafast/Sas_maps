@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B5825}
+name_ru=1940-РККА-O_36_B
+name_uk=1940-РККА-O_36_B1
+name=1940-RKKA-O_36_B
+ParentSubMenu_ru=!Старинные карты\РККА
+ParentSubMenu_uk=!Старинные карты\РККА
+ParentSubMenu=!OLD maps\RKKA
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1940-RKKA-O_36_B
+Ext=.jpg
+ContentType=image/jpeg
+IsUseDownloaderInScript=1
+CacheType=4
