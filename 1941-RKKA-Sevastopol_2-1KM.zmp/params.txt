@@ -1,0 +1,17 @@
+﻿[PARAMS]
+pnum=1
+GUID={F6574B06-E632-4D5F-BC75-C8FA658B582B}
+name_ru=1941-РККА-Севастополь_2-1KM
+name_uk=1941-РККА-Севастополь_2-1KM1
+name=1941-RKKA-Sevastopol_2-1KM
+ParentSubMenu_ru=!Старинные карты\РККА
+ParentSubMenu_uk=!Старинные карты\РККА
+ParentSubMenu=!OLD maps\RKKA
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+NameInCache=1941-RKKA-Sevastopol_2-1KM
+Ext=.jpg
+ContentType=image/jpeg
+IsUseDownloaderInScript=1
+CacheType=4
